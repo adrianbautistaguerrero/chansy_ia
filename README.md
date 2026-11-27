@@ -1,20 +1,19 @@
-# RecuperaMed AI - Agente de Acompañamiento en Recuperación Domiciliaria
+# Chansy AI - Agente de Acompañamiento en Recuperación Domiciliaria
 
-**RecuperaMed AI** es un agente de Inteligencia Artificial agéntica diseñado para brindar acompañamiento continuo 24/7 a pacientes adultos en proceso de recuperación en el hogar tras un procedimiento quirúrgico, tratamiento complejo u hospitalización, basado en la metodología SkillUp de ideación centrada en el usuario.
+**Chansy AI** es un agente de Inteligencia Artificial agéntica diseñado para brindar acompañamiento continuo 24/7 a pacientes adultos en proceso de recuperación en el hogar tras un procedimiento quirúrgico, tratamiento complejo u hospitalización, basado en la metodología SkillUp de ideación centrada en el usuario.
 
 ---
 
 ## 👥 Integrantes del Equipo
 - **Adrián Bautista Guerrero**
-- **José Sanabria**
 - **Cesar Alejandro Aguirre Martínez**
 - **Yarely Belen Jiménez Diego**
-- **Diego Omar Anaya Martinez**
+- **Omar Anaya Martinez**
 
 ---
 
 ## 📋 Descripción del Proyecto
-RecuperaMed AI aborda la ansiedad, la confusión y la falta de respuesta inmediata que experimentan los pacientes tras ser dados de alta. El agente ayuda al usuario a seguir su plan de cuidados domiciliarios, responde dudas sobre prescripciones en lenguaje sencillo, evalúa el progreso y monitorea la presencia de síntomas de riesgo, notificando y escalando el caso inmediatamente con el profesional médico responsable cuando detecta señales de alerta.
+Chansy AI aborda la ansiedad, la confusión y la falta de respuesta inmediata que experimentan los pacientes tras ser dados de alta. El agente ayuda al usuario a seguir su plan de cuidados domiciliarios, responde dudas sobre prescripciones en lenguaje sencillo, evalúa el progreso y monitorea la presencia de síntomas de riesgo, notificando y escalando el caso inmediatamente con el profesional médico responsable cuando detecta señales de alerta.
 
 ---
 
