@@ -1,0 +1,29 @@
+{
+  "agent_name": "RecuperaMed AI",
+  "version": "1.0.0",
+  "framework": "IBM watsonx Orchestrate / IBM Bob",
+  "model_parameters": {
+    "temperature": 0.2,
+    "max_tokens": 1024,
+    "top_p": 0.9
+  },
+  "skills": [
+    {
+      "name": "care_plan_tracker",
+      "description": "Monitorea medicamentos, ejercicios de rehabilitación y citas médicas."
+    },
+    {
+      "name": "symptom_triage_evaluator",
+      "description": "Clasifica los síntomas reportados en normales (verde), observación (amarillo) o alerta médica (rojo)."
+    },
+    {
+      "name": "physician_escalation_alert",
+      "description": "Genera y envía una notificación urgente al profesional de salud ante señales de riesgo."
+    }
+  ],
+  "rag_sources": [
+    "guias_alta_domiciliaria.pdf",
+    "fichas_farmacologicas_paciente.json",
+    "protocolos_semaforizacion_alerta.pdf"
+  ]
+}
