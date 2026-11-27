@@ -5,9 +5,9 @@
 ---
 
 ## 👥 Integrantes del Equipo
+- **Yarely Belen Jiménez Diego**
 - **Adrián Bautista Guerrero**
 - **Cesar Alejandro Aguirre Martínez**
-- **Yarely Belen Jiménez Diego**
 - **Omar Anaya Martinez**
 
 ---
